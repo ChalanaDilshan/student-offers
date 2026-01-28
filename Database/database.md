@@ -198,3 +198,4 @@
 |[Avid Pro Tools](https://www.avid.com/academic-eligibility)|Discounts on Avid Pro Tools|Music Production|
 |[Antares](https://identit-e.com/antaresaudiotech)|50% Off on Antares Tech Products|Music Production|
 |[Perplexity](https://www.perplexity.ai/backtoschool)| Perplexity 1-Year Free Pro Subscription for Eligible Colleges|AI-powered research|
+|[PDF2GO](https://www.pdf2go.com/solution/education)| PDF2GO 1-Year Free Education Subscription for Students and Teachers in Colleges,Universities|
